@@ -1,4 +1,4 @@
-# CS---DataStructures-and-Algorithms-Problems
+# DataStructures and Algorithms Problems
 I implemented the following abstract data types:
   * Collection (bag) - using a dynamic array
   * Multidictionary - using a linked list
