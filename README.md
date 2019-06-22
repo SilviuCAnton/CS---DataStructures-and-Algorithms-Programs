@@ -7,6 +7,7 @@ I implemented the following abstract data types:
 * List - using a linked list (with array chaining)
 
 I also wrote an app that merges N ordered vectors using an implemented generic heap (using c++ templates).
+
 The problem tests are recieved from the professor.
 
 C++ Programming Language
